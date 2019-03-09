@@ -1,0 +1,71 @@
+.container{
+height:200px;
+width:600px;
+overflow:hidden;
+box-shadow:10px 10px 100px;
+}
+.slide{
+width:5000px;
+	position:relative;
+	animation-name:slide;
+	animation-duration:18s;
+	animation-iteration-count:infinite;
+}
+.slide img{
+	height:200px;
+	width:600px;
+	float:left;
+		cursor:pointer;
+	}
+@keyframes slide{
+	0%{ 
+		left:0px;
+		}
+		
+	11%{
+		left:0px;
+	  }
+	16%{
+	  left:-600px;
+	} 
+	27%{
+	left:-600px;
+	}
+	33%{
+	left:-1200px;
+	}
+	44%{
+	left:-1200px;
+	}
+	50%{
+	left:-1800px;
+	}
+	61%{
+	left:-1800px;
+	}
+	66%{
+	left:-2400px;
+	}
+	78%{
+	left:-2400px;
+	}
+	83%{
+	left:-3000px;
+	}
+	95%{
+	left:-3000px;
+	}
+	100%{
+	left:-3000px;
+	}
+}
+p{
+font-size:20px;
+color:#FAEDE2;
+}
+.h{
+font-family:Geneva, Arial, Helvetica, sans-serif;
+font-size:24px;
+letter-spacing:2px;
+color:#EFAB8D;
+}

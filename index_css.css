@@ -1,0 +1,45 @@
+.table1{
+border:2px #000000 solid;
+}
+.div1{
+border-bottom:2px #000000 solid;
+border-top:2px #000000 solid;
+}
+.table2 th{
+border-bottom:2px #000000 solid;
+}
+.body{
+background:url(../project/all_920.png);
+background-position:center;
+background-size:cover;
+}
+.table1{
+background:#9999CC;
+}
+.div1{
+background:#3366CC;
+height:140%;
+font-weight:bolder;
+} 
+#th{
+background:url(../project/4_color_story.jpg);
+background-size:cover;
+background-position:center;
+font-weight:bolder;
+color:#000000;
+}
+.div2{
+background:url(../project/ALMA-Background-1-1.jpg);
+background-position:center;
+background-size:cover;
+height:98%;
+border-bottom:5px #000000 solid;
+border-top:2px #000000 solid;
+}
+a{
+font-size:20px;
+color:#000000;
+}
+.head:hover{
+transform:scale(1.1);
+}

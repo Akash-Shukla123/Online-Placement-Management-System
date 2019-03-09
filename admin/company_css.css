@@ -1,0 +1,57 @@
+/* CSS Document */
+/* CSS Document */
+form{
+color:#000000;
+font-weight:800;
+}
+#comp{
+color:#FF0033;
+font-size:25px;
+font-style:italic;
+text-decoration:underline;
+}
+input{
+border:2px #000000 solid;
+border-radius:5px;
+height:34px;
+width:220px;
+background:rgba(200,133,255,0.2)
+}
+a{
+color:#0000CC;
+font-weight:800;
+}
+table td{
+font-size:18px;
+font-weight:800;
+}
+#submit{
+border:2px #000000 solid;
+background:rgba(83, 39, 241,0.5);
+border-radius:8px;
+height:35px;
+width:230px;
+font-size:20px;
+letter-spacing:2px;
+color:#000000;
+font-weight:500;
+cursor:pointer;
+}
+#submit:hover{
+background:rgba(75,240,24,0.3);
+color:#000000;
+transform:scale(1.1);
+}
+#search{
+background:rgba(240, 24, 64,0.2);
+}
+#search1{
+width:100px;
+background:rgba(240, 24, 64,0.2);
+cursor:pointer;
+position:relative;
+left:20px;
+}
+#search1:hover{
+transform:scale(1.1);
+}

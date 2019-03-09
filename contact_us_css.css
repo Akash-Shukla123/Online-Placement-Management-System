@@ -1,0 +1,20 @@
+/* CSS Document */
+h3{
+border:2px solid #000000;
+background:#CCCCCC;
+height:90px;
+opacity:0.8;
+padding:10px;
+}
+.content{
+border:2px #000000 solid;
+height:700px;
+width:600px;
+background:#FFFFFF;
+opacity:0.8;
+font:"Courier New", Courier, monospace;
+font-size:18px;
+font-weight:800;
+color:#000066;
+box-shadow:20px 50px 200px;
+}

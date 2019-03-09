@@ -1,0 +1,40 @@
+/* CSS Document */
+#how1{
+border:4px #0000CC solid;
+padding:50px;
+background:rgba(255,255,255,0.7);
+font-size:23px;
+box-shadow:20px 50px 200px;
+color:#000000;
+}
+.i1{
+height:35px;
+width:205px;
+
+}
+h1{
+font:serif;
+color:#FF0000;
+}
+.i2{
+height:35px;
+}
+input{
+border:2px #000000 solid;
+border-radius:10px;
+background:rgba(255,255,255,0.5);
+}
+#submit{
+height:45px;
+width:400px;
+background:rgba(0,0,0,0.6);
+color:#FFFFFF;
+letter-spacing:5px;
+border-radius:10px;
+border:2px #000000 solid;
+font-size:24px;
+cursor:pointer;
+}
+#submit:hover{
+transform:scale(1.1);
+}

@@ -1,0 +1,42 @@
+/* CSS Document */
+/* CSS Document */
+form{
+height:300px;
+width:700px;
+border:2px #000000 solid;
+background:rgba(0,0,0,0.7);
+padding:50px;
+font-size:18px;
+box-shadow:20px 50px 200px;
+color:#FFFFFF;
+}
+h3{
+color:#CC0033;
+font-size:30px;
+letter-spacing:5px;
+}
+.i1{
+height:40px;
+width:250px;
+border:2px solid #000000;
+background:rgba(255,255,255,0.5);
+border-radius:10px;
+color:#FFFFFF;
+font-size:15px;
+}
+#submit{
+height:35px;
+width:150px;
+border:2px #CC0033 solid;
+border-radius:10px;
+font-size:18px;
+letter-spacing:5px;
+background:#EE2D53;
+cursor:pointer;
+}
+#submit:hover{
+transform:scale(1.1);
+}
+img{
+box-shadow:5px 5px 20px #FFFFFF;
+}

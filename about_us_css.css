@@ -1,0 +1,21 @@
+/* CSS Document */
+h1{
+color:#0000FF;
+font-style:italic;
+font-weight:800;
+text-decoration:underline;
+}
+h3{
+font-size:24px;
+font-weight:800;
+color:#FA4525;
+}
+body{
+color:#DADADA;
+word-spacing:2px;
+}
+.text{
+height:600px;
+width:800px;
+font-size:20px;
+}
